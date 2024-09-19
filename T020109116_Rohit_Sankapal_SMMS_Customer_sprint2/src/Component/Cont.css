@@ -1,0 +1,43 @@
+.main {
+    padding: 20px;
+    /* background: #000; */
+    background-image:url("./bgcimage1.jpg");
+    margin-top: 20px;
+    text-align: center;
+}
+.fun{
+    background: #D3D3D3;
+    padding: 2%;
+    margin: 1%;
+    border-radius: 15px;
+}
+.main h1 {
+    text-align: center;
+    color: #333;
+}
+.contact-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 400px;
+    margin: auto;
+}
+.contact-form input, .contact-form textarea {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #5e4646;
+    border-radius: 5px;
+}
+.contact-form button {
+    padding: 10px 20px;
+    background: #1bcee9;
+    color: #e3ee8a;
+    border: none;
+    border-radius: 10em;
+    cursor: pointer;
+}
+
+.contact-form button:hover {
+    background: #2a1bf3;
+}

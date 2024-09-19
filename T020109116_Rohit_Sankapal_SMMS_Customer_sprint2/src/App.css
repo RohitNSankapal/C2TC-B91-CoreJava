@@ -1,0 +1,98 @@
+main{
+  background: #D3D3D3;
+  margin: 1%;
+  padding: 15px;
+  color: #000;
+  border-radius: 15px;
+  text-align: center;
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+}
+
+footer{
+  background: #2727b0;
+  margin: 1%;
+  padding: 15px;
+  color: #867979;
+  border-radius: 15px;
+  text-align: center;
+}
+
+.card{
+  background: rgb(150, 176, 202);
+  display: inline-block;
+  margin: 2%;
+  padding: 15px;
+  border-radius: 15px;
+}
+
+img{
+  width: 15rem;
+  height: 15rem; 
+  border-radius: 15px;
+}
+
+#na{
+  background: #D3D3D3;
+  padding: 15px;
+  margin: 1%;
+  border-radius: 15px;
+  color: #c6f68f;
+}
+
+select{
+  text-align: center;
+  padding: 10px 10px;
+  margin: 2% 0 0 2%;
+  border-radius: 15px;
+  border: none;
+  background-color: #92d3f1;
+  color: #5e5b5b;
+  font-size: large;
+  font-weight: 700;
+}
+
+.btn{
+  padding: 10px;
+  width: 100px;
+  color: #618daf;
+  font-size: 1rem;
+  font-weight: bolder;
+  border-radius: 15px;
+  border: none;
+  margin: 10px;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.add{
+  background: rgb(245, 78, 145);
+}
+
+.upd{
+  background: rgb(197, 163, 29);
+}
+
+.rem{
+  background: rgb(4, 187, 243); 
+}
+
+#con{
+  background: #D3D3D3;
+  margin: 1%;
+  padding: 15px;
+  color: #000;
+  text-align: center;
+}
+
+input{
+  padding: 15px;
+  width: 20rem;
+  border-radius: 8px;
+  border: none;
+  margin: 5px;
+}
+
+table{
+  margin-left: 45%;
+}
